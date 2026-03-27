@@ -1,0 +1,23 @@
+{
+  "skill_name": "robot-tester",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "测试机器人 ROB00029078，模拟一个价格敏感型买家咨询赤兔跑鞋优惠，测试3轮对话",
+      "expected_output": "输出完整的聊天记录和机器人表现评价",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "用 robotCode ROB00014680 测试客服机器人，模拟一个新手小白咨询手机问题，进行4轮对话测试",
+      "expected_output": "输出完整的聊天记录和机器人表现评价",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "测试机器人效果，robotCode是ROB00029078，模拟一个售后投诉场景，用户买了鞋子尺码不对要换货，测试5轮",
+      "expected_output": "输出完整的聊天记录和机器人表现评价",
+      "files": []
+    }
+  ]
+}
